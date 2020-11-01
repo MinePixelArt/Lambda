@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: lambda1.15.2
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2020-11-01T09:48:12+0800
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
