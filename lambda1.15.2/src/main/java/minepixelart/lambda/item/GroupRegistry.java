@@ -1,6 +1,6 @@
-package com.github.minepixelart.lambda.item;
+package minepixelart.lambda.item;
 
-import com.github.minepixelart.lambda.item.grape.GrapeGroup;
+import minepixelart.lambda.item.grape.GrapeGroup;
 import net.minecraft.item.ItemGroup;
 
 public class GroupRegistry {

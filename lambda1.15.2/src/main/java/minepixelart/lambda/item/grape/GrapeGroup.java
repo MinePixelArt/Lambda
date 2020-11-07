@@ -1,6 +1,6 @@
-package com.github.minepixelart.lambda.item.grape;
+package minepixelart.lambda.item.grape;
 
-import com.github.minepixelart.lambda.item.ItemRegistry;
+import minepixelart.lambda.item.ItemRegistry;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 

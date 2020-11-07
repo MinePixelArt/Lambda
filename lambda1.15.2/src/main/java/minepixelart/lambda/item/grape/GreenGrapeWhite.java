@@ -1,16 +1,16 @@
-package com.github.minepixelart.lambda.item.grape;
+package minepixelart.lambda.item.grape;
 
-import com.github.minepixelart.lambda.item.GroupRegistry;
+import minepixelart.lambda.item.GroupRegistry;
 import net.minecraft.item.Food;
 import net.minecraft.item.Item;
-
-public class GrapeHqyzsy extends Item {
+// White
+public class GreenGrapeWhite extends Item {
     private static final Food food = (new Food.Builder())
             .saturation(10)
             .hunger(10)
             .build();
 
-    public GrapeHqyzsy() {
+    public GreenGrapeWhite() {
         super(new Properties().food(food).group(GroupRegistry.grapeGroup));
     }
 }

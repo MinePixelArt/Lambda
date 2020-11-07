@@ -1,6 +1,6 @@
-package com.github.minepixelart.lambda;
+package minepixelart.lambda;
 
-import com.github.minepixelart.lambda.item.ItemRegistry;
+import minepixelart.lambda.item.ItemRegistry;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraftforge.common.MinecraftForge;
